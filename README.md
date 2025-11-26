@@ -11,7 +11,7 @@ Step 5 : Use `Vikraman@gmail.com` & `123456` (Username & password) for the User 
 Step 6 : Use `tech@gmail.com` & `123456` (Username & password) for the Technician End<br>
 Step 7 : Use `Partner1@gmail.com` & `123456` (Username & password) for the Partner End<br>
 Step 8 : Use `admin@gmail.com` & `123456` (Username & password) for the Admin End<br>
-Step 9 : Use the features in the app & refer to the video attatched in the submission form .<br><br><br>
+<br><br><br>
 
 
 Thank you
